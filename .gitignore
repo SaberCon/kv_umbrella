@@ -27,6 +27,9 @@ kv-*.tar
 
 ### IntelliJ IDEA ###
 .idea
+*.iws
+*.iml
+*.ipr
 
 ### VS Code ###
 .vscode/

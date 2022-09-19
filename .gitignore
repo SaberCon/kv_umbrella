@@ -29,7 +29,8 @@ erl_crash.dump
 *.ipr
 
 ### VS Code ###
-.vscode/
+.vscode
+.elixir_ls
 
 ### Mac ###
 .DS_Store
